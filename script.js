@@ -6,15 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
-        alternativas: [
+        enunciado: "como melhorar a qualidade do sono?
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "
+                afirmacao: "Manter uma rotina regular de sono, indo para a cama e acordando no mesmo horário todos os dias, ajuda a regular o relógio biológico"
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  ".",
+                afirmacao: ": Adotar uma dieta rica em alimentos anti-inflamatórios, como peixes ricos em ômega-3, frutas vermelhas e castanhas."
             }    
            
         ]
